@@ -1,5 +1,6 @@
 # 42_cub3d
-42_cub3d est un projet de l'école 42 dans lequel nous devons créer une représentation graphique 3D d'un labyrinthe en utilisant une vue à la première personne. Nous devons implémenter le raycasting dans le style du célèbre jeu [Wolfenstein 3D game](http://users.atw.hu/wolf3d/).   
+42_cub3d est un projet de l'école 42 dans lequel nous devons créer une représentation graphique 3D d'un labyrinthe en utilisant une vue à la première personne. Nous devons implémenter le raycasting dans le style du célèbre jeu [Wolfenstein 3D game](http://users.atw.hu/wolf3d/).  
+Ce projet a été réalisé avec [@ThibautCharpentier](https://github.com/ThibautCharpentier)
 
 ## 📋 Règles
 
