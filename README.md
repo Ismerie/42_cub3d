@@ -5,7 +5,7 @@
 
 ### 🗺️Carte
 Le programme lit un fichier, la carte du jeu, qui lui sera passé en paramètre.  
-Vous pouvez créer n'importe quel carte mais elle doit respecter certaines règles :
+Vous pouvez créer n'importe quelle carte mais elle doit respecter certaines règles :
  * L'extension du fichier doit être `.cub`
  * Les textures pour chaque orientations doivent être précisés **(NO, SO, WE, EA, F, C)**
  * La couleur en RVB (0, 255) doit etre précisé pour le sol **(F)** et le plafond **(C)**
