@@ -19,10 +19,10 @@ Vous pouvez créer n'importe quel carte mais elle doit respecter certaines règl
 | 1          | Mur    | Case infranchissable par le joueur                                                        |
 | 0          | Vide   | Case sur laquelle peut se déplacer le joueur                                              |
 | 2          | Porte  | Case qui peut être ouverte et traversée par le joueur (seulement pour la partie ✨bonus) |
-| N          | Nord   | Position de départ et orientation cardinale Nord du joueur                                |
-| S          | Sud    | Position de départ et orientation cardinale Sud du joueur                                 |
-| W          | Ouest  | Position de départ et orientation cardinale Ouest du joueur                               |
-| E          | Est    | Position de départ et orientation cardinale Est du joueur                                 |
+| N          | Nord   | Position de départ et orientation cardinale **Nord** du joueur                            |
+| S          | Sud    | Position de départ et orientation cardinale **Sud** du joueur                             |
+| W          | Ouest  | Position de départ et orientation cardinale **Oues**t du joueur                           |
+| E          | Est    | Position de départ et orientation cardinale **Est** du joueur                             |
 
 Il y a des exemples de cartes dans le dossier ***map***
 
@@ -32,7 +32,7 @@ Il y a des exemples de cartes dans le dossier ***map***
 * La touche **ESC** ferme la fenêtre et quitte le programme
 
 ### ✨Bonus
-* Des portes (2) qui peuvent etre ouvertes
+* Des portes **(2)** qui peuvent être ouvertes
 * Mini-carte qui s'affiche en haut à droite sur l'écran
 * Faire pivoter le point de vue avec la souris
 
