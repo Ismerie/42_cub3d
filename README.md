@@ -34,7 +34,7 @@ Il y a des exemples de cartes dans le dossier ***map***
 
 ### ✨Bonus
 * Des portes **(2)** qui peuvent être ouvertes
-* Mini-carte qui s'affiche en haut à droite sur l'écran
+* Mini-carte qui s'affiche en haut à gauche sur l'écran
 * Faire pivoter le point de vue avec la souris
 
 <img src="https://github.com/Ismerie/42_cub3d/blob/main/gif/preview_cub3d2.gif" width="480" />  <img src="https://github.com/Ismerie/42_cub3d/blob/main/gif/preview_cub3d.gif" width="480" />
